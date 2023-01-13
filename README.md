@@ -1,4 +1,4 @@
-![logo](https://github.com/ArunavRaghav/ArunavRaghav/blob/main/banner.gif)
+![logo](https://github.com/ArunavRaghav/ArunavRaghav/blob/main/banner2.png)
 <h1 align="center">Hi 👋, I'm Arunav Raghav</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
