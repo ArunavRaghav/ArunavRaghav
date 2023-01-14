@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **bootstrap5, jQuery.**
 
-- 👨‍💻 All of my projects are available at [shorturl.at/jBEGQ](shorturl.at/jBEGQ)
+- 👨‍💻 To visitmy website follow the link: [shorturl.at/jBEGQ](shorturl.at/jBEGQ)
 
 - 💬 Ask me about **Web Developement, Java.**
 
