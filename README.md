@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **bootstrap5, jQuery.**
 
-- 👨‍💻 To visitmy website follow the link: [shorturl.at/jBEGQ](shorturl.at/jBEGQ)
+- 👨‍💻 To visit my website follow the link: [arunavraghav.vercel.app/](arunavraghav.vercel.app/)
 
 - 💬 Ask me about **Web Developement, Java.**
 
