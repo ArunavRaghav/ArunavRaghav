@@ -2,7 +2,7 @@
  
  ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=600&height=70&lines=Arunav+Raghav;a+Web+Developer;a Freelancer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=600&height=70&lines=Arunav+Raghav;a+Web+Developer;a+Freelancer)](https://git.io/typing-svg)
  
  </div>
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
@@ -27,7 +27,7 @@ Currently I'm available for Freelancing,
 [1]: https://twitter.com/arunav_raghav?t=1I4G-ZzbVabyp-wCnx93og&s=35
 [2]: https://www.linkedin.com/in/arunav-raghav-84b166229
 [3]: https://instagram.com/arunav_raghav?igshid=ZmZhODViOGI=
-[3]: https://arunavraghav.vercel.app/
+[4]: https://arunavraghav.vercel.app/
 
 
 
