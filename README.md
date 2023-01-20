@@ -2,7 +2,7 @@
  
  ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=600&height=70&lines=Arunav+Raghav;a+Web+Developer;FREELANCER)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=65&pause=500&color=06CD9C&vCenter=true&width=600&height=70&lines=Arunav+Raghav;a+Web+Developer;a Freelancer)](https://git.io/typing-svg)
  
  </div>
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
@@ -17,17 +17,17 @@ Currently I'm available for Freelancing,
 <br>
 <h2>Social Networks</h2>
 
-[![Twitter][1.2]][1] [![LinkedIn][2.2]][2] [![Instagram][3.2]][3] 
+[![Twitter][1.2]][1] [![LinkedIn][2.2]][2] [![Instagram][3.2]][3]  [![Portfolio][3.2]][3] 
 
 [1.2]: https://s4.uupload.ir/files/twitter_prkb.png
 [2.2]: https://s4.uupload.ir/files/linkedin_amwn.png
 [3.2]: https://s4.uupload.ir/files/instagram_6djz.png
-
+[4.2]: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fsearch%3Fq%3Dwebsite%2BIcon&psig=AOvVaw3K1w8lgnyXhPwBWstUC0aF&ust=1674310193390000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCOCDudSp1vwCFQAAAAAdAAAAABAE
 
 [1]: https://twitter.com/arunav_raghav?t=1I4G-ZzbVabyp-wCnx93og&s=35
 [2]: https://www.linkedin.com/in/arunav-raghav-84b166229
 [3]: https://instagram.com/arunav_raghav?igshid=ZmZhODViOGI=
-
+[3]: https://arunavraghav.vercel.app/
 
 
 
