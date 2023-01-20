@@ -24,9 +24,10 @@ Currently I'm available for Freelancing,
 [3.2]: https://s4.uupload.ir/files/instagram_6djz.png
 
 
-[1]: https://twitter.com/arunav_raghav
-[2]: https://www.linkedin.com/in/arunav_raghav/
-[3]: https://www.instagram.com/arunav_raghav
+[1]: https://twitter.com/arunav_raghav?t=1I4G-ZzbVabyp-wCnx93og&s=35
+[2]: https://www.linkedin.com/in/arunav-raghav-84b166229
+[3]: https://instagram.com/arunav_raghav?igshid=ZmZhODViOGI=
+
 
 
 
