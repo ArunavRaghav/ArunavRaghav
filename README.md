@@ -94,5 +94,5 @@ Currently pursuing my bachelor's degree majoring in computer science with specia
   
 <br/><br/>
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
-  
-      <p>© Copyright,Arunav Raghav</p>
+  <div align-"center">
+   <i><em>© Copyright,Arunav Raghav</i></em>
