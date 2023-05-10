@@ -51,11 +51,6 @@ Currently pursuing my bachelor's degree majoring in computer science with specia
 
 <br/>
    
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AkshatRastogi-1nC0re&column=8&theme=onedark" />
-</div>
-<br/>
-   
    <div align="center">
  
  ![github contribution grid snake animation](https://raw.githubusercontent.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/output/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
