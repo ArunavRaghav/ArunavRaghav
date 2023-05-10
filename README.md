@@ -61,13 +61,10 @@ Currently pursuing my bachelor's degree majoring in computer science with specia
 
 <img align="right" width="200" height="200" alt="Akshat Rastogi" src="https://github.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/blob/main/muzikak.png"/>
 
-<br/>
-
-
-
 <diV>
 
   <hr/>
+ </br></br>
   <div align="center">
  <i><b>Note:</b> Top languages is only a metric of the languages my public code consists off. These are only meant for the readme and don't showcase my skills or experience</i>
  </div>
