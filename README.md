@@ -64,7 +64,7 @@ Currently pursuing my bachelor's degree majoring in computer science with specia
 <diV>
 
   <hr/>
- </br></br>
+ </br>
   <div align="center">
  <i><b>Note:</b> Thank you for visiting my Github profile. I am eager to contribute to your project and look forward to the possibility of joining your esteemed team. Please feel free to contact me at arunavraghav2003@gmail.com to schedule an interview or to discuss any further information you may need.
 Once again, thank you for your time and consideration.</i>
