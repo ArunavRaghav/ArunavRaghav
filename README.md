@@ -45,12 +45,10 @@ Currently pursuing my bachelor's degree majoring in computer science with specia
     <a href="https://github.com/AkshatRastogi-1nC0re/InnoAppChallenge">
         <img width=132 src="https://github.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/blob/main/wns.gif" />
  </a>
-</p>
+
 
  <img align="right" width="200" height="200" alt="Akshat Rastogi" src="https://github.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/blob/main/muzikak.png"/>
-
-<br/>
-   
+   </p>
    <div align="center">
  
  ![github contribution grid snake animation](https://raw.githubusercontent.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/output/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
