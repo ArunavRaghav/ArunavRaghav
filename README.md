@@ -52,12 +52,13 @@ Currently pursuing my bachelor's degree majoring in computer science with specia
     <a href="https://adminpanel-190b8.web.app/">
         <img width=405 src="https://github.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/blob/main/AdminPortalGIF.gif" />
     </a>
+ 
+<img align="right" width="200" height="200" alt="Akshat Rastogi" src="https://github.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/blob/main/muzikak.png"/>
     <a href="https://bennettprojectarchive.web.app/#/e">
         <img width=405 src="https://github.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/blob/main/BennettProjectGalleryGIF.gif" />
     </a>
 </p>
 
-<img align="right" width="200" height="200" alt="Akshat Rastogi" src="https://github.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/blob/main/muzikak.png"/>
 
 <br/>
 
