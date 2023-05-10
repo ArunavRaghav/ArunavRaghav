@@ -80,9 +80,6 @@ Currently pursuing my bachelor's degree majoring in computer science with specia
 
  
    
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AkshatRastogi-1nC0re&column=8&theme=onedark" />
-</div>
 <br/>
    
    <div align="center">
