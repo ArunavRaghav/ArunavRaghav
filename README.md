@@ -4,7 +4,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-050a30?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/akshat.rastogi.bu__/)](https://instagram.com/akshat.rastogi.bu__)
 ![CodeChef Badge](https://img.shields.io/badge/-CodeChef-5ce1e6?style=flat-square&logo=CodeChef&logoColor=050a30)
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-5ce1e6?style=flat-square&logo=youtube&logoColor=050a30&link=https://www.youtube.com/channel/UCoJGiG5s0jxs0uL8Xfm7OvQ)](https://www.youtube.com/channel/UCoJGiG5s0jxs0uL8Xfm7OvQ)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-050a30?style=flat-square&logo=Gmail&logoColor=white&link=mailto:akshat28vivek@gmail.com)](mailto:akshat28vivek@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-050a30?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arunavraghav2003@gmail.com)](mailto:akshat28vivek@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-5ce1e6?style=flat-square&logo=twitter&logoColor=050a30&link=https://twitter.com/akshatrasogi)](https://twitter.com/akshatrasogi)
 [![Website Badge](https://img.shields.io/badge/-Website-050a30?style=flat-square&logo=vercel&logoColor=white&link=https://akshatrastogi.in/#/)](https://akshatrastogi.in/#/)
 [![PlayStore Badge](https://img.shields.io/badge/-PlayStore-5ce1e6?style=flat-square&logo=android&logoColor=050a30&link=https://play.google.com/store/apps/dev?id=5084268189196100617)](https://play.google.com/store/apps/dev?id=5084268189196100617)
