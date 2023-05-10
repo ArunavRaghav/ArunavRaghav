@@ -75,16 +75,13 @@ Currently pursuing my bachelor's degree majoring in computer science with specia
   </div>
 
   <hr/>
-
- 
-   
 <br/>
    
    <div align="center">
  
  ![github contribution grid snake animation](https://raw.githubusercontent.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/output/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/output/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only)
-    <br/>
+    <br/><br/><br/>
     <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
   
 </div>
