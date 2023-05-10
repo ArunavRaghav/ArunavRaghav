@@ -66,9 +66,13 @@ Currently pursuing my bachelor's degree majoring in computer science with specia
   <hr/>
  </br></br>
   <div align="center">
- <i><b>Note:</b> Top languages is only a metric of the languages my public code consists off. These are only meant for the readme and don't showcase my skills or experience</i>
+ <i><b>Note:</b> Thank you for visiting my Github profile. I am eager to contribute to your project and look forward to the possibility of joining your esteemed team. Please feel free to contact me at arunavraghav2003@gmail.com to schedule an interview or to discuss any further information you may need.
+Once again, thank you for your time and consideration.</i>
  </div>
  <hr>
+ 
+ 
+ 
   <div align="center">
  
  ![github contribution grid snake animation](https://raw.githubusercontent.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/output/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
