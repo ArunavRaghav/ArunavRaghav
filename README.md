@@ -63,15 +63,14 @@ Currently pursuing my bachelor's degree majoring in computer science with specia
 
 <br/>
 
-
-### GITHUB STATS 
+ <div align="center">
+ <i><b>Note:</b> Top languages is only a metric of the languages my public code consists off. These are only meant for the readme and don't showcase my skills or experience</i>
+ </div>
 
 <diV>
 
   <hr/>
- <div align="center">
- <i><b>Note:</b> Top languages is only a metric of the languages my public code consists off. These are only meant for the readme and don't showcase my skills or experience</i>
- </div>
+ 
  
   <div align="center">
  
