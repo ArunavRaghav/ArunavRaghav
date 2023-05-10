@@ -85,8 +85,6 @@ Currently pursuing my bachelor's degree majoring in computer science with specia
 ![github contribution grid snake animation](https://raw.githubusercontent.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/output/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only)
     <br/><br/><br/>
 </div>
- 
- 
  <div align="center">
   <i><em>"Programming today is a race between software engineers striving to build bigger and better idiot-proof programs and the Universe trying to produce bigger and better idiots. So far, the Universe is winning. ― Rick Cook"</></em>
    </div>
