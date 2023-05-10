@@ -44,19 +44,9 @@ Currently pursuing my bachelor's degree majoring in computer science with specia
     </a>
     <a href="https://github.com/AkshatRastogi-1nC0re/InnoAppChallenge">
         <img width=132 src="https://github.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/blob/main/wns.gif" />
-    </a>
-
-</p>
-
-<p style="display:flex">
-    <a href="https://adminpanel-190b8.web.app/">
-        <img width=405 src="https://github.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/blob/main/AdminPortalGIF.gif" />
-    </a>
+ </a>
  
 
-    <a href="https://bennettprojectarchive.web.app/#/e">
-        <img width=405 src="https://github.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/blob/main/BennettProjectGalleryGIF.gif" />
-    </a>
  
  
 </p>
@@ -65,11 +55,6 @@ Currently pursuing my bachelor's degree majoring in computer science with specia
 <br/>
 
 
-<diV>
-
-  
-
-  <hr/>
 
    <div align="center">
  
@@ -80,6 +65,7 @@ Currently pursuing my bachelor's degree majoring in computer science with specia
 
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
  <div align="center">
+ 
     <br/>
     <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
  </div>
