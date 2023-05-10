@@ -1,14 +1,14 @@
 <img src="https://github.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/blob/main/Akshat%20Rastogi%20(13).png">
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-5ce1e6?style=flat-square&logo=Linkedin&logoColor=white&link=https://twitter.com/arunav_raghav?t=c6qz0MjBSNpsVoybhUK-lA&s=35)](https://twitter.com/arunav_raghav?t=c6qz0MjBSNpsVoybhUK-lA&s=35)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-050a30?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/arunavraghav.in/?igshid=ZGUzMzM3NWJiOQ%3D%3D)](https://www.instagram.com/arunavraghav.in/?igshid=ZGUzMzM3NWJiOQ%3D%3D)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-5ce1e6?style=flat-square&logo=Linkedin&logoColor=050a30&link=https://twitter.com/arunav_raghav?t=c6qz0MjBSNpsVoybhUK-lA&s=35)](https://twitter.com/arunav_raghav?t=c6qz0MjBSNpsVoybhUK-lA&s=35)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-050a30?style=flat-square&logo=instagram&logoColor=050a30&link=https://www.instagram.com/arunavraghav.in/?igshid=ZGUzMzM3NWJiOQ%3D%3D)](https://www.instagram.com/arunavraghav.in/?igshid=ZGUzMzM3NWJiOQ%3D%3D)
 ![CodeChef Badge](https://img.shields.io/badge/-CodeChef-5ce1e6?style=flat-square&logo=CodeChef&logoColor=050a30)
-![Youtube Badge](https://img.shields.io/badge/-YouTube-5ce1e6?style=flat-square&logo=youtube&logoColor=white)
+<!-- ![Youtube Badge](https://img.shields.io/badge/-YouTube-5ce1e6?style=flat-square&logo=youtube&logoColor=white) -->
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-050a30?style=flat-square&logo=Gmail&logoColor=050a30&link=mailto:arunavraghav2003@gmail.com)](mailto:akshat28vivek@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-5ce1e6?style=flat-square&logo=twitter&logoColor=050a30&link=https://twitter.com/arunav_raghav?t=c6qz0MjBSNpsVoybhUK-lA&s=35)](https://twitter.com/arunav_raghav?t=c6qz0MjBSNpsVoybhUK-lA&s=35)
-[![Website Badge](https://img.shields.io/badge/-Website-050a30?style=flat-square&logo=vercel&logoColor=white&link=https://arunavraghav.vercel.app/)](https://arunavraghav.vercel.app/)
+[![Website Badge](https://img.shields.io/badge/-Website-050a30?style=flat-square&logo=vercel&logoColor=050a30&link=https://arunavraghav.vercel.app/)](https://arunavraghav.vercel.app/)
 [![PlayStore Badge](https://img.shields.io/badge/-PlayStore-5ce1e6?style=flat-square&logo=android&logoColor=050a30&link=#)]()
-![AppStore Badge](https://img.shields.io/badge/-AppStore-050a30?style=flat-square&logo=apple&logoColor=white&link=)
+![AppStore Badge](https://img.shields.io/badge/-AppStore-050a30?style=flat-square&logo=apple&logoColor=050a30&link=)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-5ce1e6?style=flat-square&logo=facebook&logoColor=050a30&link=https://fb.com/programmarakshat)]()
  
 <img align="left" width="300" height="300" alt="Akshat Rastogi" src="https://github.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/blob/main/Untitled%20design%20(44).png"/>
