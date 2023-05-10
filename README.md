@@ -7,7 +7,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-050a30?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arunavraghav2003@gmail.com)](mailto:akshat28vivek@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-5ce1e6?style=flat-square&logo=twitter&logoColor=050a30&link=https://twitter.com/arunav_raghav?t=c6qz0MjBSNpsVoybhUK-lA&s=35)](https://twitter.com/arunav_raghav?t=c6qz0MjBSNpsVoybhUK-lA&s=35)
 [![Website Badge](https://img.shields.io/badge/-Website-050a30?style=flat-square&logo=vercel&logoColor=white&link=https://arunavraghav.vercel.app/)](https://arunavraghav.vercel.app/)
-[![PlayStore Badge](https://img.shields.io/badge/-PlayStore-5ce1e6?style=flat-square&logo=android&logoColor=050a30&link=https://play.google.com/store/apps/dev?id=5084268189196100617)](https://play.google.com/store/apps/dev?id=5084268189196100617)
+[![PlayStore Badge](https://img.shields.io/badge/-PlayStore-5ce1e6?style=flat-square&logo=android&logoColor=050a30&link=#)]()
 [![AppStore Badge](https://img.shields.io/badge/-AppStore-050a30?style=flat-square&logo=apple&logoColor=white&link=https://apps.apple.com/in/developer/akshat-rastogi/id1567054229)](https://apps.apple.com/in/developer/akshat-rastogi/id1567054229)
 <!-- [![Facebook Badge](https://img.shields.io/badge/-Facebook-5ce1e6?style=flat-square&logo=facebook&logoColor=050a30&link=https://fb.com/programmarakshat)](https://fb.com/programmarakshat)
  -->
