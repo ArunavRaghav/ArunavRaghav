@@ -1,18 +1,20 @@
 <img src="https://github.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/blob/main/Akshat%20Rastogi%20(13).png">
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-5ce1e6?style=flat-square&logo=Linkedin&logoColor=050a30&link=https://twitter.com/arunav_raghav?t=c6qz0MjBSNpsVoybhUK-lA&s=35)](https://twitter.com/arunav_raghav?t=c6qz0MjBSNpsVoybhUK-lA&s=35)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-050a30?style=flat-square&logo=instagram&logoColor=050a30&link=https://www.instagram.com/arunavraghav.in/?igshid=ZGUzMzM3NWJiOQ%3D%3D)](https://www.instagram.com/arunavraghav.in/?igshid=ZGUzMzM3NWJiOQ%3D%3D)
-![CodeChef Badge](https://img.shields.io/badge/-CodeChef-5ce1e6?style=flat-square&logo=CodeChef&logoColor=050a30)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-050a30?style=flat-square&logo=Gmail&logoColor=050a30&link=mailto:arunavraghav2003@gmail.com)](mailto:akshat28vivek@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-5ce1e6?style=flat-square&logo=twitter&logoColor=050a30&link=https://twitter.com/arunav_raghav?t=c6qz0MjBSNpsVoybhUK-lA&s=35)](https://twitter.com/arunav_raghav?t=c6qz0MjBSNpsVoybhUK-lA&s=35)
-[![Website Badge](https://img.shields.io/badge/-Website-050a30?style=flat-square&logo=vercel&logoColor=050a30&link=https://arunavraghav.vercel.app/)](https://arunavraghav.vercel.app/)
-[![PlayStore Badge](https://img.shields.io/badge/-PlayStore-5ce1e6?style=flat-square&logo=android&logoColor=050a30&link=#)]()
-![AppStore Badge](https://img.shields.io/badge/-AppStore-050a30?style=flat-square&logo=apple&logoColor=050a30&link=)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-5ce1e6?style=flat-square&logo=facebook&logoColor=050a30&link=https://fb.com/programmarakshat)]()
- 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-5ce1e6?style=flat-square&logo=Linkedin&logoColor=050a30&link=https://www.linkedin.com/in/akshat-rastogi-3425aa1b8/)](https://www.linkedin.com/in/akshat-rastogi-3425aa1b8/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-050a30?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/akshat.rastogi.bu__/)](https://instagram.com/akshat.rastogi.bu__)
+[![CodeChef Badge](https://img.shields.io/badge/-CodeChef-5ce1e6?style=flat-square&logo=CodeChef&logoColor=050a30)]
+[![Medium Badge](https://img.shields.io/badge/-Medium-050a30?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@akshat28vivek/)](https://medium.com/@akshat28vivek/)
+[![Youtube Badge](https://img.shields.io/badge/-YouTube-5ce1e6?style=flat-square&logo=youtube&logoColor=050a30&link=https://www.youtube.com/channel/UCoJGiG5s0jxs0uL8Xfm7OvQ)](https://www.youtube.com/channel/UCoJGiG5s0jxs0uL8Xfm7OvQ)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-050a30?style=flat-square&logo=Gmail&logoColor=white&link=mailto:akshat28vivek@gmail.com)](mailto:akshat28vivek@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-5ce1e6?style=flat-square&logo=twitter&logoColor=050a30&link=https://twitter.com/akshatrasogi)](https://twitter.com/akshatrasogi)
+[![Website Badge](https://img.shields.io/badge/-Website-050a30?style=flat-square&logo=vercel&logoColor=white&link=https://akshatrastogi.in/#/)](https://akshatrastogi.in/#/)
+[![PlayStore Badge](https://img.shields.io/badge/-PlayStore-5ce1e6?style=flat-square&logo=android&logoColor=050a30&link=https://play.google.com/store/apps/dev?id=5084268189196100617)](https://play.google.com/store/apps/dev?id=5084268189196100617)
+[![AppStore Badge](https://img.shields.io/badge/-AppStore-050a30?style=flat-square&logo=apple&logoColor=white&link=https://apps.apple.com/in/developer/akshat-rastogi/id1567054229)](https://apps.apple.com/in/developer/akshat-rastogi/id1567054229)
+<!-- [![Facebook Badge](https://img.shields.io/badge/-Facebook-5ce1e6?style=flat-square&logo=facebook&logoColor=050a30&link=https://fb.com/programmarakshat)](https://fb.com/programmarakshat)
+ -->
 <img align="left" width="300" height="300" alt="Akshat Rastogi" src="https://github.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/blob/main/Untitled%20design%20(44).png"/>
 
-### I'm <a href="https://arunavraghav.vercel.app/" target="_blank">Arunav Raghav</a>!
+### I'm <a href="https://arunavraghav.in" target="_blank">Arunav Raghav</a>!
 
 Currently pursuing my bachelor's degree majoring in computer science with specialization in Artificial Intelligence from GL Bajaj Institute of Management. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas.
 
@@ -44,11 +46,48 @@ Currently pursuing my bachelor's degree majoring in computer science with specia
     </a>
     <a href="https://github.com/AkshatRastogi-1nC0re/InnoAppChallenge">
         <img width=132 src="https://github.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/blob/main/wns.gif" />
- </a>
+    </a>
+
+</p>
+
+<p style="display:flex">
+    <a href="https://adminpanel-190b8.web.app/">
+        <img width=405 src="https://github.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/blob/main/AdminPortalGIF.gif" />
+    </a>
+    <a href="https://bennettprojectarchive.web.app/#/e">
+        <img width=405 src="https://github.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/blob/main/BennettProjectGalleryGIF.gif" />
+    </a>
+</p>
+
+<img align="right" width="200" height="200" alt="Akshat Rastogi" src="https://github.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/blob/main/muzikak.png"/>
+
+<br/>
 
 
- <img align="right" width="200" height="200" alt="Akshat Rastogi" src="https://github.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/blob/main/muzikak.png"/>
-   </p>
+### GITHUB STATS 
+
+<diV>
+
+  <div align="center">
+    <a href="#"><img alt="Akshat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AkshatRastogi-1nC0re&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
+    <a href="#"><img alt="Akshat's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshatRastogi-1nC0re&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"/></a>
+   <p align="center"> <img src="https://komarev.com/ghpvc/?username=akshatrastogi-1nc0re&label=Profile%20views&color=0e75b6&style=flat" alt="akshatrastogi-1nc0re" /> </p>
+    <br/>
+    <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
+  </div>
+
+  <hr/>
+
+  <div>
+    <a href="#"><img alt="Akshat's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AkshatRastogi-1nC0re&custom_title=Akshat%20Rastogi's%20Contribution%20Graph&bg_color=0D1117&color=5ce1e6&line=FFFFFF&point=5ce1e6&hide_border=true" /></a>
+  <div> 
+</div>
+   
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AkshatRastogi-1nC0re&column=8&theme=onedark" />
+</div>
+<br/>
+   
    <div align="center">
  
  ![github contribution grid snake animation](https://raw.githubusercontent.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/output/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
@@ -57,9 +96,3 @@ Currently pursuing my bachelor's degree majoring in computer science with specia
 </div>
 
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
-
-
- <div align="center">
-
-    <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
- </div>
