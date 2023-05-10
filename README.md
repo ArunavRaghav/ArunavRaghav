@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-5ce1e6?style=flat-square&logo=Linkedin&logoColor=050a30&link=https://www.linkedin.com/in/akshat-rastogi-3425aa1b8/)](https://www.linkedin.com/in/akshat-rastogi-3425aa1b8/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-050a30?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/arunavraghav.in/?igshid=ZGUzMzM3NWJiOQ%3D%3D)](https://www.instagram.com/arunavraghav.in/?igshid=ZGUzMzM3NWJiOQ%3D%3D)
 <!-- ![CodeChef Badge](https://img.shields.io/badge/-CodeChef-5ce1e6?style=flat-square&logo=CodeChef&logoColor=050a30) -->
-<!-- [![Youtube Badge](https://img.shields.io/badge/-YouTube-5ce1e6?style=flat-square&logo=youtube&logoColor=050a30&link=https://www.youtube.com/channel/UCoJGiG5s0jxs0uL8Xfm7OvQ)](https://www.youtube.com/channel/UCoJGiG5s0jxs0uL8Xfm7OvQ) -->
+[![Youtube Badge](https://img.shields.io/badge/-YouTube-5ce1e6?style=flat-square&logo=youtube&logoColor=050a30)]()
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-050a30?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arunavraghav2003@gmail.com)](mailto:akshat28vivek@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-5ce1e6?style=flat-square&logo=twitter&logoColor=050a30&link=https://twitter.com/arunav_raghav?t=c6qz0MjBSNpsVoybhUK-lA&s=35)](https://twitter.com/arunav_raghav?t=c6qz0MjBSNpsVoybhUK-lA&s=35)
 [![Website Badge](https://img.shields.io/badge/-Website-050a30?style=flat-square&logo=vercel&logoColor=white&link=https://arunavraghav.vercel.app/)](https://arunavraghav.vercel.app/)
