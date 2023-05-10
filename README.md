@@ -64,8 +64,10 @@ Currently pursuing my bachelor's degree majoring in computer science with specia
 </div>
 
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
+
+
  <div align="center">
  
-    <br/>
+    <br/><hr>
     <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
  </div>
