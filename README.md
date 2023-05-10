@@ -45,10 +45,6 @@ Currently pursuing my bachelor's degree majoring in computer science with specia
     <a href="https://github.com/AkshatRastogi-1nC0re/InnoAppChallenge">
         <img width=132 src="https://github.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/blob/main/wns.gif" />
  </a>
- 
-
- 
- 
 </p>
 
 
@@ -68,6 +64,6 @@ Currently pursuing my bachelor's degree majoring in computer science with specia
 
  <div align="center">
  
-    <br/><hr>
+    <br/>
     <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
  </div>
