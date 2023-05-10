@@ -62,8 +62,6 @@ Currently pursuing my bachelor's degree majoring in computer science with specia
 <br/>
 
 
-### GITHUB STATS 
-
 <diV>
 
   <div align="center">
