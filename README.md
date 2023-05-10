@@ -1,6 +1,6 @@
 <img src="https://github.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/blob/main/Akshat%20Rastogi%20(13).png">
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-5ce1e6?style=flat-square&logo=Linkedin&logoColor=050a30&link=https://www.linkedin.com/in/akshat-rastogi-3425aa1b8/)](https://www.linkedin.com/in/akshat-rastogi-3425aa1b8/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-5ce1e6?style=flat-square&logo=Linkedin&logoColor=050a30&link=https://twitter.com/arunav_raghav?t=c6qz0MjBSNpsVoybhUK-lA&s=35)](https://twitter.com/arunav_raghav?t=c6qz0MjBSNpsVoybhUK-lA&s=35)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-050a30?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/arunavraghav.in/?igshid=ZGUzMzM3NWJiOQ%3D%3D)](https://www.instagram.com/arunavraghav.in/?igshid=ZGUzMzM3NWJiOQ%3D%3D)
 ![CodeChef Badge](https://img.shields.io/badge/-CodeChef-5ce1e6?style=flat-square&logo=CodeChef&logoColor=050a30)
 ![Youtube Badge](https://img.shields.io/badge/-YouTube-5ce1e6?style=flat-square&logo=youtube&logoColor=white)
