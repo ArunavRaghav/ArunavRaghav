@@ -1,4 +1,4 @@
-<img src="https://github.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/blob/main/Akshat%20Rastogi%20(13).png">
+<img src="Banner.png.jpg">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-5ce1e6?style=flat-square&logo=Linkedin&logoColor=050a30&link=https://www.linkedin.com/in/arunav-raghav-84b166229
 )](https://www.linkedin.com/in/arunav-raghav-84b166229)
