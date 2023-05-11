@@ -14,7 +14,7 @@
  -->
 <img align="left" width="300" height="300" alt="Akshat Rastogi" src="https://github.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/blob/main/Untitled%20design%20(44).png"/>
 
-### I'm <a href="https://arunavraghav.in" target="_blank">Arunav Raghav</a>!
+### I'm <a href="https://arunavraghav.vercel.app/" target="_blank">Arunav Raghav</a>!
 
 Currently pursuing my bachelor's degree majoring in computer science with specialization in Artificial Intelligence from GL Bajaj Institute of Management. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas.
 
