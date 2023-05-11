@@ -5,18 +5,11 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-050a30?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/arunavraghav.in?igshid=ZGUzMzM3NWJiOQ==
 )](https://instagram.com/arunavraghav.in?igshid=ZGUzMzM3NWJiOQ==
 )
-<!-- ![CodeChef Badge](https://img.shields.io/badge/-CodeChef-5ce1e6?style=flat-square&logo=CodeChef&logoColor=050a30) -->
-<!-- [![Medium Badge](https://img.shields.io/badge/-Medium-050a30?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@akshat28vivek/)](https://medium.com/@akshat28vivek/) -->
-<!-- [![Youtube Badge](https://img.shields.io/badge/-YouTube-5ce1e6?style=flat-square&logo=youtube&logoColor=050a30&link=https://www.youtube.com/channel/UCoJGiG5s0jxs0uL8Xfm7OvQ)](https://www.youtube.com/channel/UCoJGiG5s0jxs0uL8Xfm7OvQ) -->
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-050a30?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arunavraghav2003@gmail.com)](mailto:arunavraghav2003@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-5ce1e6?style=flat-square&logo=twitter&logoColor=050a30&link=https://twitter.com/arunav_raghav?t=c6qz0MjBSNpsVoybhUK-lA&s=35)](https://twitter.com/arunav_raghav?t=c6qz0MjBSNpsVoybhUK-lA&s=35)
 [![Website Badge](https://img.shields.io/badge/-Website-050a30?style=flat-square&logo=vercel&logoColor=white&link=https://arunavraghav.vercel.app/
 )](https://arunavraghav.vercel.app/
 )
-<!-- [![PlayStore Badge](https://img.shields.io/badge/-PlayStore-5ce1e6?style=flat-square&logo=android&logoColor=050a30&link=https://play.google.com/store/apps/dev?id=5084268189196100617)](https://play.google.com/store/apps/dev?id=5084268189196100617) -->
-<!-- [![AppStore Badge](https://img.shields.io/badge/-AppStore-050a30?style=flat-square&logo=apple&logoColor=white&link=https://apps.apple.com/in/developer/akshat-rastogi/id1567054229)](https://apps.apple.com/in/developer/akshat-rastogi/id1567054229) -->
-<!-- [![Facebook Badge](https://img.shields.io/badge/-Facebook-5ce1e6?style=flat-square&logo=facebook&logoColor=050a30&link=https://fb.com/programmarakshat)](https://fb.com/programmarakshat)
- -->
 <img align="left" width="300" height="300" alt="Akshat Rastogi" src="https://github.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/blob/main/Untitled%20design%20(44).png"/>
 
 ### I'm <a href="https://arunavraghav.vercel.app/" target="_blank">Arunav Raghav</a>!
